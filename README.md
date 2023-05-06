@@ -1,5 +1,7 @@
-Contributions:
-Selected ChatGPT instead of text-davinci-three
+# Put arbitrary PDF content into LLM using langchain
+
+- Contributions:
+  Selected ChatGPT instead of text-davinci-three
 
 Inspired by youtube video:
 https://www.youtube.com/watch?v=au2WVVGUvc8&ab_channel=SamWitteveen

@@ -1,12 +1,3 @@
-# Put arbitrary PDF content into LLM using langchain
+# Quick LLM hacks / projects
 
-- Contributions:
-  Selected ChatGPT instead of text-davinci-three
-
-Inspired by youtube video:
-https://www.youtube.com/watch?v=au2WVVGUvc8&ab_channel=SamWitteveen
-
-Original Colab:
-https://colab.research.google.com/drive/1OZpmLgd5D_qmjTnL5AsD1_ZJDdb7LQZI?usp=sharing#scrollTo=KH546j3nkFwX
-
-![Youtube Explanation Image](youtube_explanation.png)
+pdf_to_llm: read a pdf and put it into LLM by using vector databases and embeddings.
